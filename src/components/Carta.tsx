@@ -1,3 +1,3 @@
 export const Carta = () => {
-  return <div>Carta</div>;
+  return <div className="carta">Carta</div>;
 };
